@@ -6,7 +6,7 @@ float fahren;
 scanf("%d",&celi);
 if(celi!=0)
 {
-fahren=((celi*9/5)+32);
+fahren=((celi*1.8)+32);
 }
 printf("%.2f",fahren);
 return 0;
